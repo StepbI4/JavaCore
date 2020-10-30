@@ -1,3 +1,5 @@
+package chapter2;
+
 public class IfSample {
     public static void main(String[] args) {
         int x, y;
